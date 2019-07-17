@@ -15,4 +15,4 @@ Calculations and graphs are made with Excel and results are presented in PDF. <b
 
 ## License
 MIT License
-Copyright (c) 2010-2019 Google, Inc. http://angularjs.org
+Copyright (c) 2010-2019 Google, Inc. 
