@@ -1,4 +1,4 @@
-# Exploring_Weather_Trends
+# Exploring-Weather-Trends
 First project for my Data Analyst Nanodegree by Udacity. <br/>
 <br/>
 The main objective here is to analyze local and global temperature data and compare the temperature trends in the city I live to overall global temperature trends. <br/>
